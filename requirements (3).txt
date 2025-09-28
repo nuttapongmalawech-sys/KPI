@@ -1,4 +1,4 @@
-plt
+matplotlib
 scikit-learn
 pandas
  
